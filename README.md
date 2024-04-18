@@ -28,7 +28,7 @@ Po zainstalowaniu projektu, możesz uruchomić testy Cypress w terminalu, wykonu
     ```
     npm run cypress:open
     ```
-    Wybierz odpowiednią przeglądarkę i kliknij na test, który chcesz uruchomić.
+    Wybierz odpowiednią przeglądarkę i kliknij na test, httpAPINew, aby go uruchomić.
 
 ## Autor
 Autor: Weronika Skarbek
